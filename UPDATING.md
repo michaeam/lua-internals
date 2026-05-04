@@ -6,7 +6,7 @@ How to update to a new Lua release
 3. Commit and push
 
 4. Switch to main branch
-5. Merge and fix conflits
+5. Merge and fix conflicts
 6. Commit and push
 
 7. git tag {5.x.x}
